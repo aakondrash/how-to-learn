@@ -1,0 +1,13 @@
+.khan__book-pic {
+  margin-top: 0px;
+  margin-bottom: 0px;
+  margin-right: 48px;
+  height: 608px;
+  width: 620px;
+  object-fit: cover;
+  object-position: 0 0;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  background-color: #f2f2f2;
+}
