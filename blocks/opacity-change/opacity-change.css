@@ -1,0 +1,12 @@
+@keyframes opacity-change {
+  from {
+      opacity: 1;
+  }
+  to {
+      opacity: 0.3;
+  }
+}
+
+.opacity-change:hover {
+  animation: opacity-change .2s ease-in-out 1 forwards;
+}

@@ -2,8 +2,9 @@
   width: 515px;
   height: 316px;
   border: none;
+  margin-right: 20px;
 }
 
-.video__iframe::not(:last-child) {
-  border: 0;
+.video__iframe[id="josh-kaufman-youtube"] {
+  margin-right: 0px;
 }
